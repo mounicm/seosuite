@@ -1,7 +1,3 @@
-NO LONGER MAINTAINED
-====================
-However PRs are accecpted.
-
 SEO Tool Suite
 ==============
 
@@ -25,7 +21,7 @@ Instructions
     > cat schema.sql | mysql -uusername -p
     > cp testurls.example testurls
     > cp config.yaml.example config.yaml
-    > ./seocrawler.py http://fashionista.com
+    > ./seocrawler.py http://www.google.com
 
 CLI Options
 -----------
@@ -131,8 +127,6 @@ Instructions
 
 MIT License
 ===========
-
-Copyright (c) 2014 Say Media Ltd
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
